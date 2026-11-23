@@ -31,7 +31,7 @@ Exemplificação de POO em C#
 ```
 
 ## 👋🏽 DEMO
-[REPLIT](https://replit.com/@cleibp/POO-Csharp) 
+|=>
 
 ## Contatos
 
